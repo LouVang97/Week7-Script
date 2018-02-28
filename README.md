@@ -1,6 +1,6 @@
 Lou Vang
 
-Essay Week7 Respone
+Essay Week7 Respond
 
 An industry guide to becoming a software engineer by Bill Langenberg
 
